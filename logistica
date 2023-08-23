@@ -50,6 +50,6 @@ Sub FINAL()
         .VBComponents.Remove .VBComponents("ModuloEnsamblado")
         On Error GoTo 0
     End With
-MsgBox ("LOS DATOS SE HAN PROCESADO CON EXITO!! SALUDOS CORDIALES. JOSE MOLLAN"): Exit Sub
+MsgBox ("LOS DATOS SE HAN PROCESADO CON EXITO!! SALUDOS CORDIALES."): Exit Sub
 End Sub
 This Is The End
